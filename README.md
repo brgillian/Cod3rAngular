@@ -1,6 +1,6 @@
 # :computer: Projeto cadastro de produtos em Angular
 
-Curso gratuito de Angular 9  do 
+Curso gratuito de Angular 9 
 disponível no site do [Cod3r](http://www.cod3r.com.br/) e no 
 [YouTube](https://www.youtube.com/playlist?list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3).
 
@@ -13,5 +13,6 @@ Aplicação de cadastro de produtos em Angular.
 * [Json-server](https://www.npmjs.com/package/json-server)
 * [Postman](https://www.postman.com/)
 * [Angular CLI 11.2.2](https://cli.angular.io/)
+* [Angular Material](https://material.angular.io/)
   
 
