@@ -12,6 +12,6 @@ Aplicação de cadastro de produtos em Angular.
 
 * [Json-server](https://www.npmjs.com/package/json-server)
 * [Postman](https://www.postman.com/)
-* [Angular](https://cli.angular.io/)
+* [Angular CLI 11.2.2](https://cli.angular.io/)
   
 
